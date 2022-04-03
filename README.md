@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **paez.gastonm@gmail.com**
 
-<div align="center">
+<div>
   <p>
     &nbsp;<img
       align="center"

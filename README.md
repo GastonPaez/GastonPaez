@@ -1,14 +1,29 @@
 <h1 align="center">Hi 👋, I'm Gaston Paez</h1>
 <h3 align="center">A passionate fullstack developer from Argentina.</h3>
 
-<p>
-  - 🌱 I’m currently learning **ReactJS** - 👨‍💻 All of my projects are available
-  at
-  [https://gastonpaez.github.io/portfolio_web/](https://gastonpaez.github.io/portfolio_web/)
-  - 📫 How to reach me **paez.gastonm@gmail.com**
+
+- 🌱 I’m currently learning **ReactJS**
+
+- 👨‍💻 All of my projects are available at [https://gastonpaez.github.io/portfolio_web/](https://gastonpaez.github.io/portfolio_web/)
+
+- 📫 How to reach me **paez.gastonm@gmail.com**
+
+<div align="center">
+  <p>
+    &nbsp;<img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en"
+      alt="gastonpaez"
+    />
+  </p>
+  <p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gastonpaez&show_icons=true&locale=en&layout=compact"
+    alt="gastonpaez"
+  />
 </p>
-
-
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -158,22 +173,8 @@
   </a>
 </p>
 
-<div align="center">
-  <p>
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en"
-      alt="gastonpaez"
-    />
-  </p>
-</div>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gastonpaez&show_icons=true&locale=en&layout=compact"
-    alt="gastonpaez"
-  />
-</p>
+
+
 
 

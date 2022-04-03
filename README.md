@@ -10,13 +10,7 @@
 
 <div>
   
-    <p>
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en"
-      alt="gastonpaez"
-    />
-  </p>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en" alt="gastonpaez" /></p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=gastonpaez&show_icons=true&locale=en&layout=compact"

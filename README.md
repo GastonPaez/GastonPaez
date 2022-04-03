@@ -8,15 +8,7 @@
   - 📫 How to reach me **paez.gastonm@gmail.com**
 </p>
 
-<div align="center">
-  <p>
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en"
-      alt="gastonpaez"
-    />
-  </p>
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -166,6 +158,16 @@
   </a>
 </p>
 
+<div align="center">
+  <p>
+    &nbsp;<img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en"
+      alt="gastonpaez"
+    />
+  </p>
+</div>
+
 <p>
   <img
     align="left"
@@ -174,10 +176,4 @@
   />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gastonpaez&"
-    alt="gastonpaez"
-  />
-</p>
+

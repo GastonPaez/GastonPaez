@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gaston Paez</h1>
 <h3 align="center">A passionate fullstack developer from Argentina.</h3>
 
-<div align="center">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en" alt="gastonpaez" /></p>
-
+<div align="left">
 - 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://gastonpaez.github.io/portfolio_web/](https://gastonpaez.github.io/portfolio_web/)
 
 - 📫 How to reach me **paez.gastonm@gmail.com**
   </div>
+
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en" alt="gastonpaez" /></p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

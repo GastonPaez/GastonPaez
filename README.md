@@ -17,9 +17,9 @@
     alt="gastonpaez"
   /></p>  
 </p>
- ">" 
+  
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">">"Connect with me:</h3>
 <p align="center">
     <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/gp-dev/"

@@ -15,12 +15,9 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=gastonpaez&show_icons=true&locale=en&layout=compact"
     alt="gastonpaez"
-  /></p>
-  
-  
-  
-
+  /></p>  
 </p>
+ ">" 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

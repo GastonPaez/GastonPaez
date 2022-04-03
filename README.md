@@ -7,13 +7,14 @@
 - 👨‍💻 All of my projects are available at [https://gastonpaez.github.io/portfolio_web/](https://gastonpaez.github.io/portfolio_web/)
 
 - 📫 How to reach me **paez.gastonm@gmail.com**
+    <br />
 
 
   <p align=center>
    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en" alt="gastonpaez" />
   </p>
   <br />
-  <br />
+ 
   <p align=center>
   <img
     align="center"

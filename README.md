@@ -9,20 +9,20 @@
 - 📫 How to reach me **paez.gastonm@gmail.com**
 
 <div>
-  <p>
+  
     &nbsp;<img
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en"
       alt="gastonpaez"
-    />
-  </p>
-  <p>
-  <img
+    /><img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=gastonpaez&show_icons=true&locale=en&layout=compact"
     alt="gastonpaez"
   />
-</p>
+  
+  
+  
+
 </div>
 
 <h3 align="left">Connect with me:</h3>

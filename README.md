@@ -22,8 +22,8 @@
 
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
     <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/gp-dev/"
     target="blank"
@@ -76,7 +76,7 @@
     />
 
 </p> 
-    <p>
+    <p align=center>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -131,7 +131,7 @@
   </a>
 </p> 
 
- 
+<p align=center>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -169,7 +169,7 @@
     />
   </a>
 </p>
-
+</p>
 
 
 

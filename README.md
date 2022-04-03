@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **paez.gastonm@gmail.com**
 
-<div>
+<p>
   
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en" alt="gastonpaez" />
   <img
@@ -20,7 +20,7 @@
   
   
 
-</div>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

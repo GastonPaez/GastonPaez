@@ -13,7 +13,6 @@
   <p align=center>
    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en" alt="gastonpaez" />
   </p>
-  <br />
  
   <p align=center>
   <img
@@ -23,16 +22,6 @@
   />
   </p>  
 
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  
-  <br />
-  <br />
-  <br />
-  <br />
 <div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">

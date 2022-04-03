@@ -17,11 +17,9 @@
     alt="gastonpaez"
   /></p>  
 </p>
-  <p>#
-  ##
-  </p>
-
-<h3 align="center">">"Connect with me:</h3>
+  
+<div>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
     <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/gp-dev/"
@@ -34,7 +32,7 @@
     width="40"
     /></a>
 </p>
-
+</div>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     

@@ -11,13 +11,13 @@
 
 
   <p align=center>
-   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastonpaez&show_icons=true&locale=en" alt="gastonpaez" />
+   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GastonPaez&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="gastonpaez" />
   </p>
  
   <p align=center>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gastonpaez&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GastonPaez&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     alt="gastonpaez"
   />
   </p>  
@@ -90,7 +90,7 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+      src="https://icon-library.com/images/django-icon/django-icon-21.jpg"
       alt="django"
       width="40"
       height="40"
@@ -172,7 +172,7 @@
 </p>
 </p>
 
-
+[![](https://visitcount.itsvg.in/api?id=GastonPaez&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 

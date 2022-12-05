@@ -26,7 +26,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/gp-dev/"
+    href="https://www.linkedin.com/in/gp-dev/"
     target="blank"
     ><img
     align="center"

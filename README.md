@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Argentina.</h3>
 
 
-- 🌱 I’m currently learning **Java/Springboot/Angular**
+- 🌱 I’m currently learning **Flask/MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://gastonpaez.github.io/portfolio_web/](https://gastonpaez.github.io/portfolio_web/)
 

@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Argentina.</h3>
 
 
-- 🌱 I’m currently learning **Flask/MongoDB**
+- 🌱 I’m currently learning **Google cloud engineer**
 
 - 👨‍💻 All of my projects are available at [https://gastonpaez.github.io/portfolio_web/](https://gastonpaez.github.io/portfolio_web/)
 

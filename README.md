@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Gaston Paez</h1>
 <h3 align="center">A passionate fullstack developer from Argentina.</h3>
 
+---
+ 
+### About me
+ 
+I build backend systems and web applications with **Python**, from REST APIs and data models to deployment. I enjoy turning messy, real-world data into something reliable: scrapers that validate what they collect, pipelines that run on their own, and apps that people can actually use.
+ 
+- 🐍 **Backend:** Django, Flask and FastAPI, with MySQL, PostgreSQL and MongoDB
+- 🕷️ **Data & automation:** web scraping with Scrapy and Beautiful Soup, scheduled jobs with GitHub Actions
+- 🤖 **Currently exploring:** LLM integration with the Anthropic and OpenAI APIs, agents and tool use
+- 🎓 **Education:** Python Diploma and Big Data (UTN), Programming Technician (ISPC), Google Cloud Engineer training
+- 💬 **Open to:** backend ro
+  
+---
+
 
 - 🌱 I’m currently learning **Google cloud engineer**
 
